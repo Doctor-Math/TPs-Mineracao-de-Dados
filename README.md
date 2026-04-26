@@ -1,1 +1,1 @@
-# TPs-Mineracao-de-Dados
+# TPs - Mineração de Dados
