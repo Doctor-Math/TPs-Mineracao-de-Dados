@@ -1,5 +1,6 @@
 # 📊 Mineração de Dados — Trabalhos Práticos (UFMG)
 
+![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Data Science](https://img.shields.io/badge/UFMG-Ci%C3%AAncia%20de%20Dados-red)](https://dcc.ufmg.br/)
 [![Framework](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
